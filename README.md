@@ -1,4 +1,4 @@
-FunnyGuilds
+FunnyGuilds by Hillimy
 ===========
 #### About
 FunnyGuilds is a fully customisable RPG plugin that allows you to create guilds
